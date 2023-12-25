@@ -11,6 +11,6 @@ int main()
     marks[1][1] = 89;
     marks[1][2] = 78;
 
-    printf("%d", marks[0][0]);
+    printf("The Marks is: %d", marks[0][0]);
     return 0;
 }
